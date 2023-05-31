@@ -1,0 +1,14 @@
+# Fan
+type sysfs_fan, sysfs_type, fs_type;
+
+# FOD
+type sysfs_fod, sysfs_type, fs_type;
+
+# Proximity
+type sysfs_prox_cal, sysfs_type, fs_type;
+
+# RGB
+type sysfs_rgb_cal, sysfs_type, fs_type;
+
+# Touchpanel
+type sysfs_tp, sysfs_type, fs_type;
